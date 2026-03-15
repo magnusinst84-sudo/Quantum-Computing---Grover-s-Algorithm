@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+matplotlib
+numpy
+networkx
+pylatexenc
+jupyter
+notebook

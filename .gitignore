@@ -1,0 +1,15 @@
+# Environment
+venv/
+env/
+.env/
+grover_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
