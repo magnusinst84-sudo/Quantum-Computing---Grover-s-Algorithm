@@ -23,4 +23,3 @@ To avoid any `venv` or dependency issues:
 - **Grover_Algorithm_CircuitBuilder.ipynb**: Builds and visualizes the quantum circuit.
 - **Grover_Interactive_Visualizer.ipynb**: Interactive simulation of the algorithm.
 - **ClassicalVsGrover_Comparison.ipynb**: Compares classical vs quantum search performance.
-- **Presentations**: Includes PPTX files detailing the project theory and submission.
