@@ -3,7 +3,7 @@ venv/
 env/
 .env/
 grover_env/
-
+apikey.json
 # Python
 __pycache__/
 *.pyc
